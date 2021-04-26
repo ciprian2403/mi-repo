@@ -1,1 +1,2 @@
 mi primera linea
+Esta es la segunda linea (añadida desde gitHub)
